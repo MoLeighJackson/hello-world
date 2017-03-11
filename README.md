@@ -1,2 +1,1 @@
-# hello-world
-"Hello World!" Project in php, html, css, javascript, and jQuery
+"Hello World!" in PHP
